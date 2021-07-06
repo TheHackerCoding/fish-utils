@@ -1,3 +1,4 @@
+#Default alias
 alias l ls
 alias c. 'cd ..'
 alias cdd 'cd ~/Downloads'
