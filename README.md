@@ -2,7 +2,7 @@
 
 ## Install
 ```
-git clone https://github.com/thehackercoding/fish-utils $HOME/.config/fish/ && echo 'source fish-utils/src/main.fish' >> config.fish
+git clone https://github.com/thehackercoding/fish-utils $HOME/.config/fish/fish-utils && echo 'source fish-utils/src/main.fish' >> config.fish
 ```
 
 ## Requirements + Recommended
