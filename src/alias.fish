@@ -7,4 +7,4 @@ alias upgrade 'sudo apt update && sudo apt full-upgrade'
 alias suod sudo
 alias aptfix 'sudo apt --fix-broken install'
 alias ssource 'source $HOME/.config/fish/config.fish'
-alias updateutils 'set ttmp $PWD && cd $HOME/.config/fish/fish-utils && git pull && ssource && cd $ttmp'
+alias updateutils 'set ttmp $PWD && cd $HOME/.config/fish/fish-utils && git pull && ssource && cd $ttmp && set -e ttmp'
