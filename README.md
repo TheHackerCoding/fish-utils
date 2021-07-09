@@ -5,6 +5,11 @@
 git clone https://github.com/thehackercoding/fish-utils $HOME/.config/fish/fish-utils && echo 'source fish-utils/src/main.fish' >> $HOME/.config/fish/config.fish
 ```
 
+## Update
+```
+updateutils
+```
+
 ## Requirements + Recommended
 * [fish](https://fishshell.com/) + [starship](https://starship.rs/)
 * Ubuntu Linux (I'm using [Kubuntu](https://kubuntu.org/) rn)
