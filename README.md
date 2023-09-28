@@ -12,14 +12,13 @@ git clone https://github.com/i0x0/fish-utils $HOME/.config/fish/fish-utils && ec
 updateutils
 ```
 
-## Requirements + Recommended
+## Recommended
 * [fish](https://fishshell.com/) + [starship](https://starship.rs/)
-* Ubuntu? (specifically I'm using [Kubuntu](https://kubuntu.org/) rn)
 
-## Random
-* Main functionability is on Ubuntu, can be used on Mac, and is completely unusable on Windows (meh for WSL)
-* I'm only testing on Linux
-* Uhh different programming language support coming soon 
+
+## Supports
+* Ubuntu
+* Fedora
 
 ## How to Contribute (thanks ig)
 `All you have to do is literally organize the commands in the different corresponding files and update docs. simple.`
