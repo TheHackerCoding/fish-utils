@@ -6,7 +6,7 @@ source $ttmp/src/functions.fish
 source $ttmp/src/abbrs.fish
 source $ttmp/src/vars.fish
 switch $os_name
-    case ubuntu
+    case ubuntu zorin
         source $ttmp/src/os/ubuntu.fish
     case fedora
         source $ttmp/src/os/fedora.fish
